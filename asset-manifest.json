@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LetsGrowMore-task2/static/css/main.047d7f4d.css",
+    "main.js": "/LetsGrowMore-task2/static/js/main.8881cdb1.js",
+    "static/js/787.97dcd3b3.chunk.js": "/LetsGrowMore-task2/static/js/787.97dcd3b3.chunk.js",
+    "index.html": "/LetsGrowMore-task2/index.html",
+    "main.047d7f4d.css.map": "/LetsGrowMore-task2/static/css/main.047d7f4d.css.map",
+    "main.8881cdb1.js.map": "/LetsGrowMore-task2/static/js/main.8881cdb1.js.map",
+    "787.97dcd3b3.chunk.js.map": "/LetsGrowMore-task2/static/js/787.97dcd3b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.047d7f4d.css",
+    "static/js/main.8881cdb1.js"
+  ]
+}
